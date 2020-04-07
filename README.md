@@ -10,6 +10,6 @@ A [starter project](https://github.com/udacity/fend/tree/refresh-2019/projects/e
 
 To see it:
 
-- download the zip or clone the directory to your computer and, from inside the directory, install the depedencies with `npm i`, build the project with `npm run build-prod`, start the server with `npm start` and open the page on a web browser on `http://localhost:8080/`.
+- download the zip or clone the directory to your computer and, from inside the directory, install the depedencies with `npm i`, build the project with `npm run build-prod`, start the server with `npm start` and open the page on a web browser on `http://localhost:8081/`.
 
 > #**MadeWithUdacity**
