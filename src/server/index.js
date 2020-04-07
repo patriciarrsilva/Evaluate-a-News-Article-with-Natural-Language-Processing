@@ -38,12 +38,9 @@ app.get('/', function (req, res) {
   // res.sendFile(path.resolve('src/client/views/index.html'));
 });
 
-let port = process.env.PORT;
+const port = 8081;
 
 // Setup Server
-if (port == null || port == '') {
-  port = 8081;
-}
 const server = app.listen(port, listening);
 
 // Callback to debug
