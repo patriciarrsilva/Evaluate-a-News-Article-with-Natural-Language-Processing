@@ -2,7 +2,7 @@
 
 A web tool that allows users to run Natural Language Processing (NLP) on articles or blogs found on other websites.
 
-It uses the [Aylien](https://aylien.com/) Web API, [Webpack](https://webpack.js.org/) and [Express](https://expressjs.com/).
+It uses the [Aylien](https://aylien.com/) Web API, [Webpack](https://webpack.js.org/), [Express](https://expressjs.com/) and [Jest](https://jestjs.io/).
 
 A [starter project](https://github.com/udacity/fend/tree/refresh-2019/projects/evaluate-news-nlp) was provided.
 
