@@ -10,6 +10,10 @@ module.exports = {
   optimization: {
     minimizer: [new OptimizeCSSAssetsPlugin({})],
   },
+  output: {
+    libraryTarget: 'var',
+    library: 'Client',
+  },
   module: {
     rules: [
       {
